@@ -34,7 +34,7 @@
 ## Quick Install
 
 ```bash
-git clone https://github.com/yourusername/jarvis.git
+git clone https://github.com/mkv-74/jarvis.git
 cd jarvis
 bash install.sh
 ```
